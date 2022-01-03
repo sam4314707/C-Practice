@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\bin\Debug\TemperatureConversion_2.exe.config
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\bin\Debug\TemperatureConversion_2.exe
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\bin\Debug\TemperatureConversion_2.pdb
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.Form1.resources
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.Properties.Resources.resources
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.exe
+D:\Documents\C#_Practice\TemperatureConversion_2\TemperatureConversion_2\obj\Debug\TemperatureConversion_2.pdb

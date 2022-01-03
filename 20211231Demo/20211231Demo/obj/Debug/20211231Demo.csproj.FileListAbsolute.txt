@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\bin\Debug\20211231Demo.exe.config
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\bin\Debug\20211231Demo.exe
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\bin\Debug\20211231Demo.pdb
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\20211231Demo.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\_20211231Demo.Form1.resources
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\_20211231Demo.Properties.Resources.resources
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\20211231Demo.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\20211231Demo.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\20211231Demo.exe
+D:\Documents\C#_Practice\20211231Demo\20211231Demo\obj\Debug\20211231Demo.pdb

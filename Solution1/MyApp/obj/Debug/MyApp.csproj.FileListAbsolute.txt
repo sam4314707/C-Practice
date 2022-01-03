@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\Solution1\MyApp\bin\Debug\MyApp.exe.config
+D:\Documents\C#_Practice\Solution1\MyApp\bin\Debug\MyApp.exe
+D:\Documents\C#_Practice\Solution1\MyApp\bin\Debug\MyApp.pdb
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.Properties.Resources.resources
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.exe
+D:\Documents\C#_Practice\Solution1\MyApp\obj\Debug\MyApp.pdb
