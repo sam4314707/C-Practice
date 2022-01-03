@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\bin\Debug\InputBoxDemo.exe.config
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\bin\Debug\InputBoxDemo.exe
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\bin\Debug\InputBoxDemo.pdb
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.Properties.Resources.resources
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.exe
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.pdb
+D:\Documents\C#_Practice\InputBoxDemo\InputBoxDemo\obj\Debug\InputBoxDemo.Form1.resources

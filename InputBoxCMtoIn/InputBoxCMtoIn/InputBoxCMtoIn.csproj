@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F9139903-E558-4E41-9181-EDAA474F7065}</ProjectGuid>
+    <ProjectGuid>{BCEF8383-7753-4381-A51C-46AB4C3B6F63}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>InputBoxDemo</RootNamespace>
-    <AssemblyName>InputBoxDemo</AssemblyName>
+    <RootNamespace>InputBoxCMtoIn</RootNamespace>
+    <AssemblyName>InputBoxCMtoIn</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
