@@ -1,0 +1,10 @@
+﻿ControllerEvenDemo.exe' (CLR v4.0.30319: DefaultDomain): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: DefaultDomain): 已載入 'D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\bin\Debug\ControllerEvenDemo.exe'。已載入符號。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'。已略過載入符號。模組已最佳化，並已啟用 [Just My Code] 偵錯工具選項。
+ControllerEvenDemo.exe' (CLR v4.0.30319: ControllerEvenDemo.exe): 已載入 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_zh-Hant_b77a5c561934e089\mscorlib.resources.dll'。建置的模組沒有符號。
+'[22588] ControllerEvenDemo.exe' 程式以返回碼 0 (0x0) 結束。
