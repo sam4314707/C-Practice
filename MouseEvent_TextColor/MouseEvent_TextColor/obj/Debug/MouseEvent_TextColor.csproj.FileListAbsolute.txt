@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\bin\Debug\MouseEvent_TextColor.exe.config
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\bin\Debug\MouseEvent_TextColor.exe
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\bin\Debug\MouseEvent_TextColor.pdb
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.Form1.resources
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.Properties.Resources.resources
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.exe
+D:\Documents\C#_Practice\MouseEvent_TextColor\MouseEvent_TextColor\obj\Debug\MouseEvent_TextColor.pdb

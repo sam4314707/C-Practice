@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\bin\Debug\RightShiftOperation.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\bin\Debug\RightShiftOperation.exe
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\bin\Debug\RightShiftOperation.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.exe
+D:\Documents\C#_Practice\Chapter1Challenge\RightShiftOperation\obj\Debug\RightShiftOperation.pdb

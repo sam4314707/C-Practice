@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\bin\Debug\ThreeNumberAverage.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\bin\Debug\ThreeNumberAverage.exe
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\bin\Debug\ThreeNumberAverage.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.exe
+D:\Documents\C#_Practice\Chapter1Challenge\ThreeNumberAverage\obj\Debug\ThreeNumberAverage.pdb
