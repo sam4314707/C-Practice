@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.AssemblyInfo.cs
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.exe
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.deps.json
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.runtimeconfig.json
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.runtimeconfig.dev.json
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.dll
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\bin\Debug\netcoreapp3.1\CSharpDemo.pdb
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.dll
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.pdb
+C:\Users\User\source\repos\CSharpDemo\CSharpDemo\obj\Debug\netcoreapp3.1\CSharpDemo.genruntimeconfig.cache
