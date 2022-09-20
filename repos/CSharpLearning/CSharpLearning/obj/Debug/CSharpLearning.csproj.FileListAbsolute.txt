@@ -1,0 +1,10 @@
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.exe.config
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.exe
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\bin\Debug\CSharpLearning.pdb
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.csproj.AssemblyReference.cache
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.Form1.resources
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.Properties.Resources.resources
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.csproj.GenerateResource.cache
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.exe
+C:\Users\User\Documents\周彥澄\C-Practice\repos\CSharpLearning\CSharpLearning\obj\Debug\CSharpLearning.pdb
