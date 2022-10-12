@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\bin\Debug\TaiwanCalenderFunction.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\bin\Debug\TaiwanCalenderFunction.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\bin\Debug\TaiwanCalenderFunction.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\TaiwanCalenderFunction\obj\Debug\TaiwanCalenderFunction.pdb

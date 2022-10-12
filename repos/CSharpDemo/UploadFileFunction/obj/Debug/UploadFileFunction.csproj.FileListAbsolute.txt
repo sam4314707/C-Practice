@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\bin\Debug\UploadFileFunction.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\bin\Debug\UploadFileFunction.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\bin\Debug\UploadFileFunction.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\UploadFileFunction\obj\Debug\UploadFileFunction.pdb

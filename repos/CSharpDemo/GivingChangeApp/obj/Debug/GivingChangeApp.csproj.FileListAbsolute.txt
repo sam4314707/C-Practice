@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\bin\Debug\GivingChangeApp.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\bin\Debug\GivingChangeApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\bin\Debug\GivingChangeApp.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GivingChangeApp\obj\Debug\GivingChangeApp.pdb

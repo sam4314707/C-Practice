@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Documents\\周彥澄\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\CSharpDemo.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\Sam\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\CSharpDemo.csproj",
       "projectName": "CSharpDemo",
-      "projectPath": "C:\\Users\\User\\Documents\\周彥澄\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\CSharpDemo.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\Sam\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\CSharpDemo.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Documents\\周彥澄\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\Sam\\C-Practice\\repos\\CSharpDemo\\CSharpDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

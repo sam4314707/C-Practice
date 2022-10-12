@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\bin\Debug\ArrayDemo.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\bin\Debug\ArrayDemo.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\bin\Debug\ArrayDemo.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ArrayDemo\obj\Debug\ArrayDemo.pdb

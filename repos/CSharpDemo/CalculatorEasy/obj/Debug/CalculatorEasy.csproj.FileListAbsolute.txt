@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\bin\Debug\CalculatorEasy.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\bin\Debug\CalculatorEasy.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\bin\Debug\CalculatorEasy.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\CalculatorEasy\obj\Debug\CalculatorEasy.pdb

@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\bin\Debug\BouncingBall.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\bin\Debug\BouncingBall.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\bin\Debug\BouncingBall.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.csproj.CopyComplete
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BouncingBall\obj\Debug\BouncingBall.pdb
