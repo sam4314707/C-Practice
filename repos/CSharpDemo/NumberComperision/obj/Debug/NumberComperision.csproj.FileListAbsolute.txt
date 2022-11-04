@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\bin\Debug\NumberComperision.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\bin\Debug\NumberComperision.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\bin\Debug\NumberComperision.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\NumberComperision\obj\Debug\NumberComperision.pdb

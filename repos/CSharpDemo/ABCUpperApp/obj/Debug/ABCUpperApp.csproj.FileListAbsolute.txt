@@ -7,3 +7,4 @@ C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ABCUpperApp\obj\Debug\AB
 C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ABCUpperApp\obj\Debug\ABCUpperApp.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ABCUpperApp\obj\Debug\ABCUpperApp.exe
 C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ABCUpperApp\obj\Debug\ABCUpperApp.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ABCUpperApp\obj\Debug\ABCUpperApp.csproj.AssemblyReference.cache

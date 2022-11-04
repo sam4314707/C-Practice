@@ -19,7 +19,7 @@ namespace AgeJudge
 
         private void buttonjudge_Click(object sender, EventArgs e)
         {
-            int age = Convert.ToInt32(textBoxAge.Text);
+            /*int age = Convert.ToInt32(textBoxAge.Text);
 
             if(age < 18)
             {
@@ -32,7 +32,30 @@ namespace AgeJudge
                 button1.Visible = true;
                 label3.Visible = true;
             }
-            
+            */
+
+            int age;
+
+            try
+            {
+                age = Convert.ToInt32(textBoxAge.Text);
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+                MessageBox.Show(ex.ToString());
+                MessageBox.Show("輸入錯誤，重新輸入!");
+                textBoxAge.Text = "";
+                return;
+            }
+
+            if (age <= 18)
+            {
+                MessageBox.Show("未成年請勿飲酒");
+            }
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -44,7 +67,7 @@ namespace AgeJudge
 
         private void textBoxBQ_KeyDown(object sender, KeyEventArgs e)
         {
-            if(e.KeyCode == Keys.Enter)
+            if (e.KeyCode == Keys.Enter)
             {
                 int total;
                 total = 32 * Convert.ToInt32(textBoxBQ.Text);
@@ -54,8 +77,8 @@ namespace AgeJudge
 
         private void textBoxAge_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (e.KeyChar == (char)48 || e.KeyChar == (char)49 || e.KeyChar == (char)50 || 
-                e.KeyChar == (char)51 || e.KeyChar == (char)52 || e.KeyChar == (char)53 || 
+            /*if (e.KeyChar == (char)48 || e.KeyChar == (char)49 || e.KeyChar == (char)50 ||
+                e.KeyChar == (char)51 || e.KeyChar == (char)52 || e.KeyChar == (char)53 ||
                 e.KeyChar == (char)54 || e.KeyChar == (char)55 || e.KeyChar == (char)56 ||
                 e.KeyChar == (char)57 || e.KeyChar == (char)13 || e.KeyChar == (char)8)
             {
@@ -64,7 +87,7 @@ namespace AgeJudge
             else // 不是的話，把其餘按鍵設定為已經處理過了
             {
                 e.Handled = true;
-            }
+            }*/
         }
     }
 }

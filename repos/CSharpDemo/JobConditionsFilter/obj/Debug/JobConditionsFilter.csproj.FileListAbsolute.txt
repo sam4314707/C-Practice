@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\bin\Debug\JobConditionsFilter.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\bin\Debug\JobConditionsFilter.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\bin\Debug\JobConditionsFilter.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\JobConditionsFilter\obj\Debug\JobConditionsFilter.pdb
