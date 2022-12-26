@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\DoWhileDemo\bin\Debug\DoWhileDemo.exe.config
+C:\Users\User\source\repos\DoWhileDemo\bin\Debug\DoWhileDemo.exe
+C:\Users\User\source\repos\DoWhileDemo\bin\Debug\DoWhileDemo.pdb
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.Form1.resources
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.Properties.Resources.resources
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.exe
+C:\Users\User\source\repos\DoWhileDemo\obj\Debug\DoWhileDemo.pdb

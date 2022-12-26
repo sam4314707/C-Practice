@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ContinueBreakDemo\bin\Debug\ContinueBreakDemo.exe.config
+C:\Users\User\source\repos\ContinueBreakDemo\bin\Debug\ContinueBreakDemo.exe
+C:\Users\User\source\repos\ContinueBreakDemo\bin\Debug\ContinueBreakDemo.pdb
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.Form1.resources
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.Properties.Resources.resources
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.exe
+C:\Users\User\source\repos\ContinueBreakDemo\obj\Debug\ContinueBreakDemo.pdb

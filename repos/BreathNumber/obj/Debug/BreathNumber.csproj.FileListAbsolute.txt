@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\BreathNumber\bin\Debug\BreathNumber.exe.config
+C:\Users\User\source\repos\BreathNumber\bin\Debug\BreathNumber.exe
+C:\Users\User\source\repos\BreathNumber\bin\Debug\BreathNumber.pdb
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.Form1.resources
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.Properties.Resources.resources
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.exe
+C:\Users\User\source\repos\BreathNumber\obj\Debug\BreathNumber.pdb

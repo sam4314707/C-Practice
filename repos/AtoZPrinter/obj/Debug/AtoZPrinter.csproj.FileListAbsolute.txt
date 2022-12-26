@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AtoZPrinter\bin\Debug\AtoZPrinter.exe.config
+C:\Users\User\source\repos\AtoZPrinter\bin\Debug\AtoZPrinter.exe
+C:\Users\User\source\repos\AtoZPrinter\bin\Debug\AtoZPrinter.pdb
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.Form1.resources
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.Properties.Resources.resources
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.exe
+C:\Users\User\source\repos\AtoZPrinter\obj\Debug\AtoZPrinter.pdb

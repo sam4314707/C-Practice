@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\bin\Debug\dataStackSimulation.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\bin\Debug\dataStackSimulation.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\bin\Debug\dataStackSimulation.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\dataStackSimulation\obj\Debug\dataStackSimulation.pdb

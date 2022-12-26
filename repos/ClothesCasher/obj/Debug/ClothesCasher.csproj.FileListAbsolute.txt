@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ClothesCasher\bin\Debug\ClothesCasher.exe.config
+C:\Users\User\source\repos\ClothesCasher\bin\Debug\ClothesCasher.exe
+C:\Users\User\source\repos\ClothesCasher\bin\Debug\ClothesCasher.pdb
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.Form1.resources
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.Properties.Resources.resources
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.exe
+C:\Users\User\source\repos\ClothesCasher\obj\Debug\ClothesCasher.pdb

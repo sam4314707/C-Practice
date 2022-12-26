@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\bin\Debug\GuessNumberApp.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\bin\Debug\GuessNumberApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\bin\Debug\GuessNumberApp.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\GuessNumberApp\obj\Debug\GuessNumberApp.pdb

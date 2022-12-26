@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\bin\Debug\ZooTicketApp.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\bin\Debug\ZooTicketApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\bin\Debug\ZooTicketApp.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ZooTicketApp\obj\Debug\ZooTicketApp.pdb

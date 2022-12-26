@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WalkAnimation\bin\Debug\WalkAnimation.exe.config
+C:\Users\User\source\repos\WalkAnimation\bin\Debug\WalkAnimation.exe
+C:\Users\User\source\repos\WalkAnimation\bin\Debug\WalkAnimation.pdb
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.Form1.resources
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.Properties.Resources.resources
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.exe
+C:\Users\User\source\repos\WalkAnimation\obj\Debug\WalkAnimation.pdb

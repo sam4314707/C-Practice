@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\bin\Debug\BankInquire.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\bin\Debug\BankInquire.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\bin\Debug\BankInquire.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\BankInquire\obj\Debug\BankInquire.pdb

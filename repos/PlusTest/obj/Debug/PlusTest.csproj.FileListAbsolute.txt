@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PlusTest\bin\Debug\PlusTest.exe.config
+C:\Users\User\source\repos\PlusTest\bin\Debug\PlusTest.exe
+C:\Users\User\source\repos\PlusTest\bin\Debug\PlusTest.pdb
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.Form1.resources
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.Properties.Resources.resources
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.exe
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.pdb
+C:\Users\User\source\repos\PlusTest\obj\Debug\PlusTest.csproj.AssemblyReference.cache

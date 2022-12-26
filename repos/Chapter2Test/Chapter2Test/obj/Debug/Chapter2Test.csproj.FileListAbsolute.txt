@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\bin\Debug\Chapter2Test.exe.config
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\bin\Debug\Chapter2Test.exe
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\bin\Debug\Chapter2Test.pdb
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.Form1.resources
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.Properties.Resources.resources
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.exe
+C:\Users\User\source\repos\Chapter2Test\Chapter2Test\obj\Debug\Chapter2Test.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\EletricityBillApp\bin\Debug\EletricityBillApp.exe.config
+C:\Users\User\source\repos\EletricityBillApp\bin\Debug\EletricityBillApp.exe
+C:\Users\User\source\repos\EletricityBillApp\bin\Debug\EletricityBillApp.pdb
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.Form1.resources
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.Properties.Resources.resources
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.exe
+C:\Users\User\source\repos\EletricityBillApp\obj\Debug\EletricityBillApp.pdb

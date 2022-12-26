@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\LabelMovement\bin\Debug\LabelMovement.exe.config
+C:\Users\User\source\repos\LabelMovement\bin\Debug\LabelMovement.exe
+C:\Users\User\source\repos\LabelMovement\bin\Debug\LabelMovement.pdb
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.Form1.resources
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.Properties.Resources.resources
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.csproj.GenerateResource.cache
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.exe
+C:\Users\User\source\repos\LabelMovement\obj\Debug\LabelMovement.pdb

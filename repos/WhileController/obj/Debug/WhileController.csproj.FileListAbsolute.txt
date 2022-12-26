@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WhileController\bin\Debug\WhileController.exe.config
+C:\Users\User\source\repos\WhileController\bin\Debug\WhileController.exe
+C:\Users\User\source\repos\WhileController\bin\Debug\WhileController.pdb
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.Form1.resources
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.Properties.Resources.resources
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.exe
+C:\Users\User\source\repos\WhileController\obj\Debug\WhileController.pdb

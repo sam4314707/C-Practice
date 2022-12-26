@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.Form1.resources
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.Properties.Resources.resources
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TrianglePrinter\bin\Debug\TrianglePrinter.exe.config
+C:\Users\User\source\repos\TrianglePrinter\bin\Debug\TrianglePrinter.exe
+C:\Users\User\source\repos\TrianglePrinter\bin\Debug\TrianglePrinter.pdb
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.exe
+C:\Users\User\source\repos\TrianglePrinter\obj\Debug\TrianglePrinter.pdb

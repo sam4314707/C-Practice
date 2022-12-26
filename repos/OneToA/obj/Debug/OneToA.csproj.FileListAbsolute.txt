@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\OneToA\bin\Debug\OneToA.exe.config
+C:\Users\User\source\repos\OneToA\bin\Debug\OneToA.exe
+C:\Users\User\source\repos\OneToA\bin\Debug\OneToA.pdb
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.Form1.resources
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.Properties.Resources.resources
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.csproj.GenerateResource.cache
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.exe
+C:\Users\User\source\repos\OneToA\obj\Debug\OneToA.pdb

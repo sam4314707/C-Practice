@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TaxiApp\bin\Debug\TaxiApp.exe.config
+C:\Users\User\source\repos\TaxiApp\bin\Debug\TaxiApp.exe
+C:\Users\User\source\repos\TaxiApp\bin\Debug\TaxiApp.pdb
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.Form1.resources
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.Properties.Resources.resources
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.exe
+C:\Users\User\source\repos\TaxiApp\obj\Debug\TaxiApp.pdb

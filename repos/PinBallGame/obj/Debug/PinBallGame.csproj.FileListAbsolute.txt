@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\PinBallGame\bin\Debug\PinBallGame.exe.config
+C:\Users\User\source\repos\PinBallGame\bin\Debug\PinBallGame.exe
+C:\Users\User\source\repos\PinBallGame\bin\Debug\PinBallGame.pdb
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.Form1.resources
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.Properties.Resources.resources
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.exe
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.pdb
+C:\Users\User\source\repos\PinBallGame\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\source\repos\PinBallGame\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PinBallGame\obj\Debug\PinBallGame.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ColorfulTextbox\bin\Debug\ColorfulTextbox.exe.config
+C:\Users\User\source\repos\ColorfulTextbox\bin\Debug\ColorfulTextbox.exe
+C:\Users\User\source\repos\ColorfulTextbox\bin\Debug\ColorfulTextbox.pdb
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.Form1.resources
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.Properties.Resources.resources
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.exe
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.pdb
+C:\Users\User\source\repos\ColorfulTextbox\obj\Debug\ColorfulTextbox.csproj.AssemblyReference.cache

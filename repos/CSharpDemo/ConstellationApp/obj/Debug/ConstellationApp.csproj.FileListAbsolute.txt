@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\bin\Debug\ConstellationApp.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\bin\Debug\ConstellationApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\bin\Debug\ConstellationApp.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\CSharpDemo\ConstellationApp\obj\Debug\ConstellationApp.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\CasherOnSaleApp\bin\Debug\CasherOnSaleApp.exe.config
+C:\Users\User\source\repos\CasherOnSaleApp\bin\Debug\CasherOnSaleApp.exe
+C:\Users\User\source\repos\CasherOnSaleApp\bin\Debug\CasherOnSaleApp.pdb
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.Form1.resources
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.Properties.Resources.resources
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.exe
+C:\Users\User\source\repos\CasherOnSaleApp\obj\Debug\CasherOnSaleApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\RGBTextBox\bin\Debug\RGBTextBox.exe.config
+C:\Users\User\source\repos\RGBTextBox\bin\Debug\RGBTextBox.exe
+C:\Users\User\source\repos\RGBTextBox\bin\Debug\RGBTextBox.pdb
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.Form1.resources
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.Properties.Resources.resources
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.csproj.GenerateResource.cache
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.exe
+C:\Users\User\source\repos\RGBTextBox\obj\Debug\RGBTextBox.pdb

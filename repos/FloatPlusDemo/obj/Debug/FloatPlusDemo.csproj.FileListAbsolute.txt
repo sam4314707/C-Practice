@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\FloatPlusDemo\bin\Debug\FloatPlusDemo.exe.config
+C:\Users\User\source\repos\FloatPlusDemo\bin\Debug\FloatPlusDemo.exe
+C:\Users\User\source\repos\FloatPlusDemo\bin\Debug\FloatPlusDemo.pdb
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.Form1.resources
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.Properties.Resources.resources
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.exe
+C:\Users\User\source\repos\FloatPlusDemo\obj\Debug\FloatPlusDemo.pdb

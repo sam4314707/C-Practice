@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\AzPrinter\bin\Debug\AzPrinter.exe.config
+C:\Users\User\source\repos\AzPrinter\bin\Debug\AzPrinter.exe
+C:\Users\User\source\repos\AzPrinter\bin\Debug\AzPrinter.pdb
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.Form1.resources
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.Properties.Resources.resources
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.exe
+C:\Users\User\source\repos\AzPrinter\obj\Debug\AzPrinter.pdb

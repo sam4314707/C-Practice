@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Chapter3Test\bin\Debug\Chapter3Test.exe.config
+C:\Users\User\source\repos\Chapter3Test\bin\Debug\Chapter3Test.exe
+C:\Users\User\source\repos\Chapter3Test\bin\Debug\Chapter3Test.pdb
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.Form1.resources
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.Properties.Resources.resources
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.exe
+C:\Users\User\source\repos\Chapter3Test\obj\Debug\Chapter3Test.pdb

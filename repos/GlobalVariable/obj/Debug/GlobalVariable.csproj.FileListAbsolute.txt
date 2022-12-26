@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\GlobalVariable\bin\Debug\GlobalVariable.exe.config
+C:\Users\User\source\repos\GlobalVariable\bin\Debug\GlobalVariable.exe
+C:\Users\User\source\repos\GlobalVariable\bin\Debug\GlobalVariable.pdb
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.Form1.resources
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.Properties.Resources.resources
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.csproj.GenerateResource.cache
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.exe
+C:\Users\User\source\repos\GlobalVariable\obj\Debug\GlobalVariable.pdb

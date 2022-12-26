@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\BallWalk\bin\Debug\BallWalk.exe.config
+C:\Users\User\source\repos\BallWalk\bin\Debug\BallWalk.exe
+C:\Users\User\source\repos\BallWalk\bin\Debug\BallWalk.pdb
+C:\Users\User\source\repos\BallWalk\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\source\repos\BallWalk\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.Form1.resources
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.Properties.Resources.resources
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.csproj.CopyComplete
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.exe
+C:\Users\User\source\repos\BallWalk\obj\Debug\BallWalk.pdb
