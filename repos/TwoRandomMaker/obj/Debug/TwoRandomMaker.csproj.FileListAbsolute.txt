@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\TwoRandomMaker\bin\Debug\TwoRandomMaker.exe.config
+C:\Users\User\source\repos\TwoRandomMaker\bin\Debug\TwoRandomMaker.exe
+C:\Users\User\source\repos\TwoRandomMaker\bin\Debug\TwoRandomMaker.pdb
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.Form1.resources
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.Properties.Resources.resources
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.exe
+C:\Users\User\source\repos\TwoRandomMaker\obj\Debug\TwoRandomMaker.pdb
