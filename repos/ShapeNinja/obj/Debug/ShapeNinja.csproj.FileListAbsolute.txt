@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\bin\Debug\ShapeNinja.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\bin\Debug\ShapeNinja.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\bin\Debug\ShapeNinja.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\bin\Debug\zh-Hant\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.csproj.CopyComplete
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\ShapeNinja\obj\Debug\ShapeNinja.pdb
