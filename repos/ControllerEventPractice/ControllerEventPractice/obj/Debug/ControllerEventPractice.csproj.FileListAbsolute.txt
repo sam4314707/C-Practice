@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.Form1.resources
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.Properties.Resources.resources
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\bin\Debug\ControllerEventPractice.exe.config
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\bin\Debug\ControllerEventPractice.exe
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\bin\Debug\ControllerEventPractice.pdb
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.exe
+D:\Documents\C#_Practice\ControllerEventPractice\ControllerEventPractice\obj\Debug\ControllerEventPractice.pdb

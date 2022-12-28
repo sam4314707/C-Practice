@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\bin\Debug\BMICalculater.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\bin\Debug\BMICalculater.exe
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\bin\Debug\BMICalculater.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.exe
+D:\Documents\C#_Practice\Chapter1Challenge\BMICalculater\obj\Debug\BMICalculater.pdb

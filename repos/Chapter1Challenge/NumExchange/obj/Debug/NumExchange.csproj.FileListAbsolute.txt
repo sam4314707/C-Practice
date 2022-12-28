@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\bin\Debug\NumExchange.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\bin\Debug\NumExchange.exe
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\bin\Debug\NumExchange.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.exe
+D:\Documents\C#_Practice\Chapter1Challenge\NumExchange\obj\Debug\NumExchange.pdb

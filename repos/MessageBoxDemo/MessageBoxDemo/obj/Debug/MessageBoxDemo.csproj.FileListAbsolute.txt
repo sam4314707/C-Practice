@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.exe.config
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.exe
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\bin\Debug\MessageBoxDemo.pdb
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.Form1.resources
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.Properties.Resources.resources
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.exe
+D:\Documents\C#_Practice\MessageBoxDemo\MessageBoxDemo\obj\Debug\MessageBoxDemo.pdb

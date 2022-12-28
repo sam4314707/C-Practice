@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\bin\Debug\POSSystem.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\bin\Debug\POSSystem.exe
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\bin\Debug\POSSystem.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.exe
+D:\Documents\C#_Practice\Chapter1Challenge\POSSystem\obj\Debug\POSSystem.pdb

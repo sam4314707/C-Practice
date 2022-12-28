@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\bin\Debug\Calculater.exe.config
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\bin\Debug\Calculater.exe
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\bin\Debug\Calculater.pdb
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.Form1.resources
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.Properties.Resources.resources
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.exe
+D:\Documents\C#_Practice\Chapter1Challenge\Calculater\obj\Debug\Calculater.pdb

@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\bin\Debug\ControllerEvenDemo.exe.config
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\bin\Debug\ControllerEvenDemo.exe
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\bin\Debug\ControllerEvenDemo.pdb
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.Form1.resources
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.Properties.Resources.resources
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.exe
+D:\Documents\C#_Practice\ControllerEvenDemo\ControllerEvenDemo\obj\Debug\ControllerEvenDemo.pdb

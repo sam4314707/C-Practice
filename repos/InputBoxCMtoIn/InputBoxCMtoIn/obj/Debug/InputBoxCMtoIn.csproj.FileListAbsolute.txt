@@ -1,0 +1,9 @@
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\bin\Debug\InputBoxCMtoIn.exe.config
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\bin\Debug\InputBoxCMtoIn.exe
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\bin\Debug\InputBoxCMtoIn.pdb
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.Form1.resources
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.Properties.Resources.resources
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.exe
+D:\Documents\C#_Practice\InputBoxCMtoIn\InputBoxCMtoIn\obj\Debug\InputBoxCMtoIn.pdb

@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\bin\Debug\MouseEventDemo.exe.config
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\bin\Debug\MouseEventDemo.exe
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\bin\Debug\MouseEventDemo.pdb
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.Form1.resources
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.Properties.Resources.resources
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.exe
+D:\Documents\C#_Practice\MouseEventDemo\MouseEventDemo\obj\Debug\MouseEventDemo.pdb

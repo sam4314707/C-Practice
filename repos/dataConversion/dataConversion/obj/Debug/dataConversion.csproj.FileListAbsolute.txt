@@ -1,0 +1,10 @@
+D:\Documents\C#_Practice\dataConversion\dataConversion\bin\Debug\dataConversion.exe.config
+D:\Documents\C#_Practice\dataConversion\dataConversion\bin\Debug\dataConversion.exe
+D:\Documents\C#_Practice\dataConversion\dataConversion\bin\Debug\dataConversion.pdb
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.csproj.AssemblyReference.cache
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.Form1.resources
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.Properties.Resources.resources
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.csproj.GenerateResource.cache
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.csproj.CoreCompileInputs.cache
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.exe
+D:\Documents\C#_Practice\dataConversion\dataConversion\obj\Debug\dataConversion.pdb
