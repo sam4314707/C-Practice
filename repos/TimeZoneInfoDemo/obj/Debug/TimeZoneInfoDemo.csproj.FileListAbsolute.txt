@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\bin\Debug\TimeZoneInfoDemo.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\bin\Debug\TimeZoneInfoDemo.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\bin\Debug\TimeZoneInfoDemo.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\TimeZoneInfoDemo\obj\Debug\TimeZoneInfoDemo.pdb

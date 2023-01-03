@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\bin\Debug\SoftwareTrialVersion.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\bin\Debug\SoftwareTrialVersion.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\bin\Debug\SoftwareTrialVersion.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\SoftwareTrialVersion\obj\Debug\SoftwareTrialVersion.pdb

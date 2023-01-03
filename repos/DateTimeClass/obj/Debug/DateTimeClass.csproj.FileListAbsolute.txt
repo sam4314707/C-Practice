@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\bin\Debug\DateTimeClass.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\bin\Debug\DateTimeClass.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\bin\Debug\DateTimeClass.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\DateTimeClass\obj\Debug\DateTimeClass.pdb

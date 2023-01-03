@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeClass", "DateTimeClass.csproj", "{2A31FE62-97D5-4474-B1CC-15AA8DEC9F8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeZoneInfoDemo", "..\TimeZoneInfoDemo\TimeZoneInfoDemo.csproj", "{FEDA8B79-A87E-4885-A243-822184C5B06C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeCal", "..\DateTimeCal\DateTimeCal.csproj", "{B40B024F-3BA8-49D8-B99B-81B1E02A25DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftwareTrialVersion", "..\SoftwareTrialVersion\SoftwareTrialVersion.csproj", "{643288CA-C077-486E-8F13-D757D8D7FF13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{2A31FE62-97D5-4474-B1CC-15AA8DEC9F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A31FE62-97D5-4474-B1CC-15AA8DEC9F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A31FE62-97D5-4474-B1CC-15AA8DEC9F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDA8B79-A87E-4885-A243-822184C5B06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDA8B79-A87E-4885-A243-822184C5B06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDA8B79-A87E-4885-A243-822184C5B06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDA8B79-A87E-4885-A243-822184C5B06C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B40B024F-3BA8-49D8-B99B-81B1E02A25DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40B024F-3BA8-49D8-B99B-81B1E02A25DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40B024F-3BA8-49D8-B99B-81B1E02A25DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40B024F-3BA8-49D8-B99B-81B1E02A25DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{643288CA-C077-486E-8F13-D757D8D7FF13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643288CA-C077-486E-8F13-D757D8D7FF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643288CA-C077-486E-8F13-D757D8D7FF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643288CA-C077-486E-8F13-D757D8D7FF13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

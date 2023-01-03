@@ -19,7 +19,18 @@ namespace DateTimeClass
 
         private void button1_Click(object sender, EventArgs e)
         {
+            DateTime dt = new DateTime(2021, 1, 1);
+            DateTime dt1 = new DateTime(2021, 1, 1, 14, 23, 45);
+            TimeZone tz = TimeZone.CurrentTimeZone;
+            
 
+            textBox1.Clear();
+            textBox1.AppendText(dt.Date.ToString() + "\r\n");
+            textBox1.AppendText(dt1.TimeOfDay.ToString() + "\r\n");
+            textBox1.AppendText(tz.StandardName.ToString() + "\r\n");
+            textBox1.AppendText(DateTime.Now.ToString() + "\r\n");
+            textBox1.AppendText(dt1.Year.ToString() + "\r\n");
+            
         }
     }
 }
