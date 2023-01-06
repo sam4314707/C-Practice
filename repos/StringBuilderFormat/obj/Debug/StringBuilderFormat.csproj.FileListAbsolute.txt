@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\bin\Debug\StringBuilderFormat.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\bin\Debug\StringBuilderFormat.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\bin\Debug\StringBuilderFormat.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderFormat\obj\Debug\StringBuilderFormat.pdb

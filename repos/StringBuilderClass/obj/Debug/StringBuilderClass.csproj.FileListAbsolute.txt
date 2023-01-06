@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\bin\Debug\StringBuilderClass.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\bin\Debug\StringBuilderClass.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\bin\Debug\StringBuilderClass.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\StringBuilderClass\obj\Debug\StringBuilderClass.pdb

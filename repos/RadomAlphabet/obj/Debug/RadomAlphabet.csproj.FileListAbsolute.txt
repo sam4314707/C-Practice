@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\bin\Debug\RadomAlphabet.exe.config
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\bin\Debug\RadomAlphabet.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\bin\Debug\RadomAlphabet.pdb
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.Form1.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.Properties.Resources.resources
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.csproj.GenerateResource.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.exe
+C:\Users\User\Documents\Sam\C-Practice\repos\RadomAlphabet\obj\Debug\RadomAlphabet.pdb
